@@ -45,9 +45,9 @@ let g:netrw_winsize=25
 " Airline
 let g:airline_theme='gruvbox'
 
-let g:airline_powerline_fonts=1 " But first: sudo apt install fonts-powerline
+let g:airline_powerline_fonts=1 " But first: install powerline fonts package (check the package naming for the distro you are using)
 
-let g:airline_extensions = ['tabline'] " Disable airline extras except tabline
+let g:airline_extensions = ['tabline'] " Enable only tabline extension
 
 " Mappings
 map <C-e> :Lexplore<CR>
@@ -60,5 +60,5 @@ noremap <C-o> :w!<CR>
 set guioptions -=m
 set guioptions -=T
 set guioptions -=r
-set guifont =JetBrains\ Mono\ 12
+set guifont =JetBrains\ Mono\ 12 " Install JetBrainsMono fonts first
 
