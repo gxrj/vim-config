@@ -67,4 +67,4 @@ set guioptions -=m " Removes menubar
 set guioptions -=T " Removes toolbar
 set guioptions -=l " Removes left scrollbar
 set guioptions -=r " Removes right scrollbar
-set guifont =JetBrains\ Mono\ 12
+set guifont =JetBrains\ Mono\ 12 " Install JetBrainsMono fonts first
