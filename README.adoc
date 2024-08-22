@@ -1,0 +1,4 @@
+### Installation
+
+- Extract *vim* named folder to your home path
+- Then rename *vim* folder to *.vim* folder
