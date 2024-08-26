@@ -4,7 +4,7 @@
 - Then rename *vim* folder to *.vim* folder
 
 #### Plugins installed
-- [vim-airline](https://github.com/vim-airline/vim-airline) plugin
-- [vim-lsp](https://github.com/prabirshrestha/vim-lsp) plugin
-- [vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) plugin
-- [gruvbox](https://github.com/morhetz/gruvbox) color theme
+- https://github.com/vim-airline/vim-airline[vim-airline] plugin
+- https://github.com/prabirshrestha/vim-lsp[vim-lsp] plugin
+- https://github.com/mattn/vim-lsp-settings[vim-lsp-settings] plugin
+- https://github.com/morhetz/gruvbox[gruvbox] color theme
