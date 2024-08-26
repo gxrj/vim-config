@@ -2,3 +2,9 @@
 
 - Extract *vim* named folder to your home path
 - Then rename *vim* folder to *.vim* folder
+
+#### Plugins installed
+- [vim-airline](https://github.com/vim-airline/vim-airline) plugin
+- [vim-lsp](https://github.com/prabirshrestha/vim-lsp) plugin
+- [vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) plugin
+- [gruvbox](https://github.com/morhetz/gruvbox) color theme
