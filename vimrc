@@ -53,11 +53,9 @@ let g:netrw_keepdir=0
 " Airline
 let g:airline_theme='gruvbox'
 
-let g:airline_powerline_fonts=0 " But first: install powerline fonts package (check the package naming for the distro you are using)
+let g:airline_powerline_fonts=1 " But first: install powerline fonts package (check the package naming for the distro you are using)
 
-let g:airline_extensions=[]
-
-" let g:airline_extensions=['tabline'] " Enable only tabline extension
+let g:airline_extensions=['tabline'] " Enable only tabline extension
 
 " Mappings
 map <C-e> :Lexplore<CR>
@@ -65,3 +63,4 @@ noremap <C-v> :vnew<CR> " for some reason vsplit is splitting a new window with 
 noremap <C-s> :new<CR> " for some reason split is creating a new buffer with the same content as the original
 noremap <C-q> :q!<CR>
 noremap <C-o> :w!<CR>
+
